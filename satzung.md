@@ -1,27 +1,29 @@
 # Satzung des TechHub Aachen e.V.
 
-## § Name und Sitz des Vereins
+## § Name und Sitz
 
-Der Verein führt den Namen TechHub Aachen und ist ein Verein im Sinne des BGB.
+Der Verein führt den Namen ____________________.
 
-Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz „e.V.“
+Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
 Der Sitz des Vereins ist Aachen.
 
 
 ## § Geschäftsjahr
 
-Das Geschäftsjahr folgt dem Kalenderjahr.
+Geschäftsjahr ist das Kalenderjahr.
 
 
 ## § Zweck des Vereins
 
-Die Zwecke des Vereins sind:
-* Die Förderung von Wissenschaft und Forschung
-* Die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
+Der Verein verfolgt ausschließlich und unmittelbar - gemeinnützige - mildtätige - kirchliche - Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+
+Zweck des Vereins ist
+* die Förderung von Wissenschaft und Forschung
+* die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
 
 
-Dies soll unter anderem auf folgende Weisen erreicht werden:
+Der Satzungszweck wird verwirklicht insbesondere durch
 * Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
 * die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne des Absatzes 1 und 2;
 * Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
@@ -39,7 +41,7 @@ Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtscha
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 
 
-## § Verbot von Vergünstigungen
+## § Verbot von Begünstigungen
 
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
@@ -52,47 +54,61 @@ Es gibt drei Arten von Mitgliedern:
 * Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
 * Altvorstände, Alumni´s, Beiratsposten als qua officio können Teil eines möglichen Beirats werden und haben kein Stimmrecht auf der Mitgliederversammlung.
 
-Aufnahme von Mitgliedern:
-* Über die Aufnahme eines ordentlichen Mitgliedes entscheidet die Mitgliederversammlung mit Zweidrittelmehrheit.
-* Über die Aufnahme von Fördermitgliedern entscheidet der Vorstand. 
-* Ehrenmitglieder werden durch einstimmigen Beschluss der Mitgliederversammlung ernannt.
-* Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden. Die Mitgliederversammlung muss über den Antrag informiert werden.
+
+## § Erwerb der Mitgliedschaft
+
+Über die Aufnahme eines ordentlichen Mitgliedes entscheidet die Mitgliederversammlung mit Zweidrittelmehrheit.
+
+Über die Aufnahme von Fördermitgliedern entscheidet der Vorstand.
+
+Ehrenmitglieder werden durch einstimmigen Beschluss der Mitgliederversammlung ernannt.
+
+Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden.
+Die Mitgliederversammlung muss über den Antrag informiert werden.
  
 
 ## § Beendigung der Mitgliedschaft
 
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
 
-Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Die schriftliche Austrittserklärung muss mit einer Frist von drei Monaten jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.
+Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand.
+Die schriftliche Austrittserklärung muss mit einer Frist von drei Monaten jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.
 
-Eine Austrittserklärung aufgrund einer Satzungsänderung oder einer Mehrbelastung durch eine geänderte Beitragsordnung ist durch eine schriftliche Erklärung an den Vorstand zu richten. Die Kündigung gilt zum Zeitpunkt des Inkrafttretens der jeweiligen Änderung und ist spätestens bis 3 Monate nach Bekanntgabe der Änderung einzureichen.
+Eine Austrittserklärung aufgrund einer Satzungsänderung oder einer Mehrbelastung durch eine geänderte Beitragsordnung ist durch eine schriftliche Erklärung an den Vorstand zu richten.
+Die Kündigung gilt zum Zeitpunkt des Inkrafttretens der jeweiligen Änderung und ist spätestens bis 3 Monate nach Bekanntgabe der Änderung einzureichen.
 
-Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere:
+Ein Ausschluss kann nur aus wichtigem Grund erfolgen.
+Wichtige Gründe sind insbesondere
 * ein die Vereinsziele schädigendes Verhalten,
 * die Verletzung satzungsmäßiger Pflichten oder
-* Beitragsrückstände über mindestens 6 Monate oder 3 Mitgliedsbeiträge
+* Beitragsrückstände von mindestens 6 Monate oder 3 Mitgliedsbeiträge
 
 Über den Ausschluss entscheidet der Vorstand.
 
 Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist.
 
-Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten.
+Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig.
+Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten.
 
 Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
-Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins. Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen. Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
+Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins.
+
+Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen.
+
+Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
 
 
 ## § Beiträge
 
-Von den Mitgliedern und Fördermitgliedern können Beiträge erhoben werden.
+Von regulären Mitgliedern und Fördermitgliedern können Beiträge erhoben werden.
 
-Näheres regelt die Beitragsordnung, diese wird von der Mitgliederversammlung festgelegt.
+Die Höhe der Beiträge und deren Fälligkeit bestimmt die Mitgliederversammlung in der Beitragsordnung.
 
 
 ## § Organe des Vereins
 
-Die Organe des Vereins sind:
+Organe des Vereins sind
 * Die Mitgliederversammlung
 * Der Vorstand
 * Die Teams
@@ -103,12 +119,12 @@ Die Organe des Vereins sind:
 
 Die Mitgliederversammlung ist das oberste Vereinsorgan.
 
-Zu ihren Aufgaben gehören insbesondere:
+Zu ihren Aufgaben gehören insbesondere
 * die Wahl und Abwahl des Vorstands,
 * Entlastung des Vorstands,
 * Entgegennahme der Berichte des Vorstandes,
-* Wahl der Kassenprüfern/innen Festsetzung,
-* Festsetzung der Beitragsordnung,
+* Wahl der Kassenprüfern/innen,
+* Festsetzung von Beiträgen und deren Fälligkeit in der Beitragsordnung,
 * Beschlussfassung über die Änderung der Satzung,
 * Beschlussfassung über die Auflösung des Vereins,
 * Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen,
@@ -117,27 +133,29 @@ Zu ihren Aufgaben gehören insbesondere:
 * Festsetzung einer Geschäftsordnung des Vorstandes
 * Festsetzung einer Geschäftsordnung des Beirats
 * Festsetzung einer Finanzordnung
-* Festsetzung einer Nutzungsordnung von Vereinsbesitz sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
+* Festsetzung einer Nutzungsordnung von Vereinsbesitz
+* sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
-Die Mitgliederversammlung muss einmal in jedem Geschäftsjahre stattfinden;
+Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
 
 Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich oder per E-Mail unter Angabe von Gründen verlangt.
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich, oder per E-Mail unter Angabe der Tagesordnung einberufen.
 
-Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/Innen beizulegen.
-
 Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.
+
 Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
+
+Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/Innen beizulegen.
 
 Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich oder per E-Mail beantragt.
 Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 
-Anträge über:
-* die Abwahl des Vorstands, über
-* die Änderung der Satzung, über
-* die Auflösung des Vereins und über
-* die Änderung der Beitragsordnung,
+Anträge
+* über die Abwahl des Vorstands
+* über die Änderung der Satzung
+* über die Auflösung des Vereins
+* über die Änderung der Beitragsordnung
 die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
@@ -156,26 +174,29 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
 
-Auf der Mitgliederversammlung wird eine  natürliche und anwesende Person zum Wahlleiter gewählt.
+Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.
 
 Näheres regelt die Geschäftsordnung der Mitgliederversammlung.
 
 
-## § Der Vorstand
+## § Vorstand
 
-Der Vorstand besteht aus 3-8 Vorstandsmitgliedern:
-* dem/der 1. Vorsitzende/Vorsitzenden, 
+Der Vorstand im Sinn des § 26 BGB besteht aus
+3-8 Vorstandsmitgliedern:
+* dem/der 1. Vorsitzenden
 * dem/der 2. Vorsitzenden (als direkte Vertretung und Rechtsnachfolge des/der 1. Vorsitzender/Vorsitzenden),
-* einem/einer Kassenführer/in
+* dem/der Kassierer/in
 * und ggf. weiteren Vorstandsmitgliedern
 
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1.  Vorsitzenden und den weiteren Vorstandsmitgliedern. Die Mehrheit des Vorstandes vertritt den Verein gerichtlich und außergerichtlich.
+Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. Vorsitzenden und den weiteren Vorstandsmitgliedern.
+Die Mehrheit des Vorstandes vertritt den Verein gerichtlich und außergerichtlich.
 
 Für bestimmte Sachgebiete kann der Vorstand einen besonderen Vertreter gemäß § 30 BGB bestellen.
 
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 
-Vorstandsmitglieder sind natürliche Personen. Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.
+Vorstandsmitglieder sind natürliche Personen.
+Vorstandsmitglieder müssen durch ein Mitglied auf der Mitgliederversammlung zur Wahl vorgeschlagen werden.
 
 Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgewählt werden und durch einen Neuen ersetzt werden. Wichtige Gründe sind insbesondere:
 * ein die Vereinsziele schädigendes Verhalten
@@ -183,7 +204,7 @@ Der Vorstand kann außerhalb der regulären Wahlen nur aus wichtigem Grund abgew
 * Rücktritt vom Amt
 * Geschäftsunfähigkeit durch Krankheit oder Unauffindbarkeit.
 
-Eine Wiederwahl ist zulässig.
+Wiederwahl ist zulässig.
 
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 
@@ -200,7 +221,7 @@ Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder 
 Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.
 
 Näheres regelt die Geschäftsordnung des Vorstandes.
- 
+
 
 ## § Teams
 
@@ -238,6 +259,7 @@ Soll der Vorstand entlastet werden ist der Mitgliederversammlung eine Wochen vor
 
 ## § Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines zu.
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines, die es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden haben.
 
-Das Vermögen ist durch die Empfänger ausschließlich für die Zwecke gemäß §3.1, oder §3.2 des Vereins zu verwenden.
+
+Quelle: keine.

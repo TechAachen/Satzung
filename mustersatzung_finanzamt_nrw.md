@@ -18,9 +18,11 @@ Geschäftsjahr ist das Kalenderjahr.
 
 Der Verein verfolgt ausschließlich und unmittelbar - gemeinnützige - mildtätige - kirchliche - Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-Zweck des Vereins ist … (z. B. die Förderung von Wissenschaft und Forschung, Jugend- und Altenhilfe, Erziehung, Volks- und Berufsbildung, Kunst und Kultur, Landschaftspflege, Umweltschutz, des öffentlichen Gesundheitswesens, des Sports, Unterstützung hilfsbedürftiger Personen).
+Zweck des Vereins ist
+* (z. B. die Förderung von Wissenschaft und Forschung, Jugend- und Altenhilfe, Erziehung, Volks- und Berufsbildung, Kunst und Kultur, Landschaftspflege, Umweltschutz, des öffentlichen Gesundheitswesens, des Sports, Unterstützung hilfsbedürftiger Personen).
 
-Der Satzungszweck wird verwirklicht insbesondere durch (z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
+Der Satzungszweck wird verwirklicht insbesondere durch
+(z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
 
 
 ## § Selbstlose Tätigkeit
@@ -54,14 +56,30 @@ Gegen die Ablehnung, die keiner Begründung bedarf, steht dem/der Bewerber/in di
 
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
 
-Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. Die schriftliche Austrittserklärung muss mit einer Frist von einem Monat jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.
+Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied.
+Die schriftliche Austrittserklärung muss mit einer Frist von einem Monat jeweils zum Ende des Geschäftsjahres gegenüber dem Vorstand erklärt werden.
 
-Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
+Ein Ausschluss kann nur aus wichtigem Grund erfolgen.
+Wichtige Gründe sind insbesondere
+* ein die Vereinsziele schädigendes Verhalten,
+* die Verletzung satzungsmäßiger Pflichten oder
+* Beitragsrückstände von mindestens einem Jahr.
+
+Über den Ausschluss entscheidet der Vorstand.
+
+Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist.
+
+Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig.
+Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten.
+
+Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
 
 ## § Beiträge
 
-Von den Mitgliedern werden Beiträge erhoben. Die Höhe der Beiträge und deren Fälligkeit bestimmt die Mitgliederversammlung.
+Von den Mitgliedern werden Beiträge erhoben.
+
+Die Höhe der Beiträge und deren Fälligkeit bestimmt die Mitgliederversammlung.
 
 
 ## § Organe des Vereins
@@ -73,30 +91,35 @@ Organe des Vereins sind
 ## § Mitgliederversammlung
 
 Die Mitgliederversammlung ist das oberste Vereinsorgan.
+
 Zu ihren Aufgaben gehören insbesondere
 * die Wahl und Abwahl des Vorstands,
 * Entlastung des Vorstands,
 * Entgegennahme der Berichte des Vorstandes,
-* Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit,
+* Wahl der Kassenprüfern/innen,
+* Festsetzung von Beiträgen und deren Fälligkeit,
 * Beschlussfassung über die Änderung der Satzung,
 * Beschlussfassung über die Auflösung des Vereins,
-* Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
+* Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen
+* sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
 Im erstem Quartal eines jeden Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
 
 Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich unter Angabe von Gründen verlangt.
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der Tagesordnung einberufen.
+
 Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag.
+
 Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
 
 Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt.
 Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 
-Anträge über
-* die Abwahl des Vorstands, über
-* die Änderung der Satzung, über
-* die Auflösung des Vereins,
+Anträge
+* über die Abwahl des Vorstands
+* über die Änderung der Satzung
+* über die Auflösung des Vereins
 die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
@@ -118,8 +141,12 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 ## § Vorstand
 
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. 
-Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+Der Vorstand im Sinn des § 26 BGB besteht aus
+* dem/der 1. und 2. Vorsitzenden
+* dem/der Kassierer/in
+
+Sie vertreten den Verein gerichtlich und außergerichtlich.
+Zwei Vorstandsmitglieder vertreten gemeinsam.
 
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 
@@ -130,6 +157,7 @@ Wiederwahl ist zulässig.
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
+
 
 ## § Kassenprüfung
 
