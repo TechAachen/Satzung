@@ -2,7 +2,7 @@
 
 ## § Name und Sitz
 
-Der Verein führt den Namen ____________________.
+Der Verein führt den Namen TechAachen e.V..
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
@@ -96,7 +96,8 @@ Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins
 Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen.
 
 Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
-Über [oben] entscheidet die Mitgliederversammlung.
+Über Rückzahlung oder Rückgabe der eingezahlten Kapitalanteile oder geleisteten Sacheinlagen  entscheidet die Mitgliederversammlung.
+
 
 ## § Beiträge
 
@@ -261,6 +262,3 @@ Soll der Vorstand entlastet werden ist der Mitgliederversammlung eine Wochen vor
 ## § Auflösung des Vereins
 
 Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden haben.
-
-
-Quelle: keine.
