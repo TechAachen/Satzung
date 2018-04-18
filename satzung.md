@@ -1,4 +1,4 @@
-# Satzung des TechHub Aachen e.V.
+# Satzung des TechAachen e.V.
 
 ## § Name und Sitz
 
@@ -16,7 +16,7 @@ Geschäftsjahr ist das Kalenderjahr.
 
 ## § Zweck des Vereins
 
-Der Verein verfolgt ausschließlich und unmittelbar - gemeinnützige - mildtätige - kirchliche - Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 Zweck des Vereins ist
 * die Förderung von Wissenschaft und Forschung
@@ -50,9 +50,8 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 
 Es gibt drei Arten von Mitgliedern:
 * Körperschaften, die einen des gemeinnützigen Zwecks gemäß Paragraf 52 AO verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
-* Natürliche Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
+* Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
 * Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
-* Altvorstände, Alumni´s, Beiratsposten als qua officio können Teil eines möglichen Beirats werden und haben kein Stimmrecht auf der Mitgliederversammlung.
 
 
 ## § Erwerb der Mitgliedschaft
@@ -64,7 +63,7 @@ Es gibt drei Arten von Mitgliedern:
 Ehrenmitglieder werden durch einstimmigen Beschluss der Mitgliederversammlung ernannt.
 
 Der Antrag auf Fördermitgliedschaft darf durch den Vorstand unbegründet abgelehnt werden.
-Die Mitgliederversammlung muss über den Antrag informiert werden.
+Die Mitglieder müssen innerhalb von 14 Tagen über den Antrag informiert werden.
  
 
 ## § Beendigung der Mitgliedschaft
@@ -97,13 +96,15 @@ Das ausscheidende Mitglied verliert jeden Anspruch auf das Vermögen des Vereins
 Die bis zum Austritt entstandenen Verpflichtungen gegenüber dem Verein bleiben bestehen.
 
 Die Mitglieder dürfen bei ihrem Ausscheiden nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurückerhalten.
-
+Über [oben] entscheidet die Mitgliederversammlung.
 
 ## § Beiträge
 
-Von regulären Mitgliedern und Fördermitgliedern können Beiträge erhoben werden.
+Von regulären Mitgliedern werden keine Beiträge erhoben.
 
-Die Höhe der Beiträge und deren Fälligkeit bestimmt die Mitgliederversammlung in der Beitragsordnung.
+Von Fördermitgliedern können Beiträge erhoben werden.
+
+Näheres regelt die Beitragsordnung, diese wird von der Mitgliederversammlung festgelegt.
 
 
 ## § Organe des Vereins
@@ -144,7 +145,7 @@ Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwe
 
 Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens oder der Mail folgenden Tag.
 
-Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
+Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.
 
 Soll der Vorstand entlastet werden ist der Einladung ein Kassenprüfbericht der Kassenprüfer/Innen beizulegen.
 
@@ -174,6 +175,8 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
 
+Das Protokoll ist innerhalb von 14 Tagen schriftlich oder per E-Mail an die Mitglieder zu versenden.
+
 Auf der Mitgliederversammlung wird eine natürliche und anwesende Person zum Wahlleiter gewählt.
 
 Näheres regelt die Geschäftsordnung der Mitgliederversammlung.
@@ -182,16 +185,12 @@ Näheres regelt die Geschäftsordnung der Mitgliederversammlung.
 ## § Vorstand
 
 Der Vorstand im Sinn des § 26 BGB besteht aus
-3-8 Vorstandsmitgliedern:
-* dem/der 1. Vorsitzenden
-* dem/der 2. Vorsitzenden (als direkte Vertretung und Rechtsnachfolge des/der 1. Vorsitzender/Vorsitzenden),
+* dem/der 1. und 2. Vorsitzenden
 * dem/der Kassierer/in
 * und ggf. weiteren Vorstandsmitgliedern
 
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. Vorsitzenden und den weiteren Vorstandsmitgliedern.
-Die Mehrheit des Vorstandes vertritt den Verein gerichtlich und außergerichtlich.
-
-Für bestimmte Sachgebiete kann der Vorstand einen besonderen Vertreter gemäß § 30 BGB bestellen.
+Sie vertreten den Verein gerichtlich und außergerichtlich.
+Zwei Vorstandsmitglieder vertreten gemeinsam.
 
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 
@@ -220,6 +219,8 @@ Die Beschlüsse des Vorstandes sind zu protokollieren und die Vereinsmitglieder 
 
 Der Vorstand kann zur Erledigung der laufenden Geschäfte eine oder mehrere Personen berufen, diese werden im Rahmen seiner Weisung tätig.
 
+Der Vorstand haftet nur für grobe Fahrlässigkeit.
+
 Näheres regelt die Geschäftsordnung des Vorstandes.
 
 
@@ -229,7 +230,7 @@ Teams können von der Mitgliederversammlung und dem Vorstand zur Erledigung von 
 
 Durch die Mitgliederversammlung sowie den Vorstand kann eine Änderung der bestimmten Aufgabe aufgetragen werden. Bei Änderung der Aufgabe sind Teammitglieder berechtigt das Team zu verlassen.
 
-Teams sind gegenüber dem bestehenden Gremium rechenschaftspflichtig.
+Teams sind gegenüber dem bestehenden Vorstand rechenschaftspflichtig.
 
 Mitglieder von Teams können natürliche Personen, juristische Personen und Amtsträger qua officio werden.
 
@@ -239,7 +240,7 @@ Zu der zugeordneten Aufgabe gesellen sich Folgende:
 * Benennung einer Ansprechperson für die restlichen Organe des Vereins.
 * Festlegung einer Geschäftsordnung.
 
-Mitglieder von Teams können durch Beschluss der Mitgliederversammlung, des Vorstandes und des Teams abberufen werden.
+Mitglieder von Teams können sowohl durch Beschluss der Mitgliederversammlung, des Vorstandes oder des Teams abberufen werden.
 
 Näheres regelt die Geschäftsordnung für Teams.
 
@@ -259,7 +260,7 @@ Soll der Vorstand entlastet werden ist der Mitgliederversammlung eine Wochen vor
 
 ## § Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines, die es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden haben.
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden haben.
 
 
 Quelle: keine.
