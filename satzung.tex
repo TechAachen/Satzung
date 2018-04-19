@@ -1,8 +1,9 @@
-\documentclass{article}
+\documentclass[ngerman]{article}
 
 \usepackage{german}
 \usepackage[utf8]{inputenc}
 \usepackage{enumerate}
+\usepackage{enumitem}
 
 \setlength{\textwidth}{15cm}
 \setlength{\textheight}{24cm}
@@ -13,6 +14,10 @@
 \author{}
 \date{}
 
+\setlist[enumerate,1]{label=§~\arabic*,ref=§~\arabic*}
+\setlist[enumerate,2]{label=\arabic*.,ref=\theenumi.\arabic*}
+\setlist[enumerate,3]{label=(\alph*),ref=\theenumii~(\alph*)}
+
 \newcommand{\paragr}[1]{\item \textsf{\textbf{#1}}}
 
 \hyphenation{TechAachen}
@@ -20,10 +25,11 @@
 \begin{document}
 \maketitle
 
-\begin{enumerate}[§ 1]
+\begin{enumerate}
 \paragr{Name und Sitz}
 
 \begin{enumerate}
+
 \item Der Verein führt den Namen TechAachen e.V..
 
 \item Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz ``e.V.''
@@ -34,10 +40,8 @@
 
 \paragr{Geschäftsjahr}
 
-\begin{enumerate}
-\item Geschäftsjahr ist das Kalenderjahr.
+Geschäftsjahr ist das Kalenderjahr.
 
-\end{enumerate}
 
 \item \textsf{\textbf{Zweck des Vereins}}
 \begin{enumerate}
@@ -46,55 +50,45 @@
 
 \item Zweck des Vereins ist
 \begin{enumerate}
-\item die Förderung von Wissenschaft und Forschung
-\item die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
+\item \label{zweck_wissenschaft_forschung} die Förderung von Wissenschaft und Forschung;
+\item \label{zweck_bildung} die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe;
 \end{enumerate}
 
-Der Satzungszweck wird verwirklicht insbesondere durch
+\item Der Satzungszweck wird verwirklicht insbesondere durch
 \begin{enumerate}
 \item Förderung der Zusammenarbeit regional ansässiger Organisationen, die im Sinne der Vereinszwecke tätig sind, u.a. die sog. technischen studentischen Eigeninitiativen der RWTH Aachen und der FH Aachen;
-\item die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne des Absatzes 1 und 2;
+\item die Beschaffung von Mitteln und deren Weiterleitung zur Förderung der steuerbegünstigten Zwecke im Sinne der Absätze \ref{zweck_wissenschaft_forschung} und \ref{zweck_bildung};
 \item Förderung des Dialogs zwischen Organisationen und der Öffentlichkeit, der Politik, der Wirtschaft, den Hochschulen und Forschungseinrichtungen in der Region;
 \item Durchführung und Förderung von Informationsveranstaltungen und Bildungsveranstaltungen;
-\item Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne des Absatzes 1 und 2;
+\item Schaffung einer Plattform für das Umsetzen gemeinnütziger Projekte im Sinne der Absätze \ref{zweck_wissenschaft_forschung} und \ref{zweck_bildung};
 \end{enumerate}
 
 \end{enumerate}
 
 \paragr{Selbstlose Tätigkeit}
-\begin{enumerate}
 
-\item Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-
-\end{enumerate}
+Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
 
 \paragr{Mittelverwendung}
-\begin{enumerate}
 
-\item Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
-
-\end{enumerate}
+Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 
 
 \paragr{Verbot von Begünstigungen}
-\begin{enumerate}
 
-\item Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-
-\end{enumerate}
+Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 
 \paragr{Mitgliedschaft}
-\begin{enumerate}
+\label{mitglieder}
 
-\item Es gibt drei Arten von Mitgliedern:
+Es gibt drei Arten von Mitgliedern:
+
 \begin{enumerate}
-\item Körperschaften, die einen des gemeinnützigen Zwecks gemäß Paragraf 52 AO verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht.
+\item Körperschaften, die einen des gemeinnützigen Zwecks gemäß § 52 AO verfolgen; Diese Mitglieder werden reguläre Mitglieder genannt und haben ein Stimmrecht. \label{mitglieder_regulaer}
 \item Natürliche oder juristische Personen als Ehrenmitglieder. Ehrenmitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
 \item Natürliche oder juristische Personen als Fördermitglieder. Fördermitglieder haben kein Stimmrecht auf der Mitgliederversammlung.
-\end{enumerate}
-
 \end{enumerate}
 
 
@@ -129,7 +123,7 @@ Wichtige Gründe sind insbesondere
 \begin{enumerate}
 \item ein die Vereinsziele schädigendes Verhalten,
 \item die Verletzung satzungsmäßiger Pflichten oder
-Beitragsrückstände von mindestens 6 Monate oder 3 Mitgliedsbeiträge
+\item Beitragsrückstände von mindestens 6 Monaten oder 3 Mitgliedsbeiträge
 \end{enumerate}
 
 \item Über den Ausschluss entscheidet der Vorstand.
@@ -164,16 +158,13 @@ Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlic
 
 
 \paragr{Organe des Vereins}
-\begin{enumerate}
 
-\item Organe des Vereins sind
+Organe des Vereins sind
 \begin{enumerate}
 \item Die Mitgliederversammlung
 \item Der Vorstand
 \item Die Teams
 \item Der Beirat
-\end{enumerate}
-
 \end{enumerate}
 
 
@@ -344,11 +335,9 @@ Zwei Vorstandsmitglieder vertreten gemeinsam.
 
 
 \paragr{Auflösung des Vereins}
-\begin{enumerate}
 
-\item Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß §7.1 des Vereines, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden haben.
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins zu gleichen Teilen den regulären Mitgliedern gemäß \ref{mitglieder_regulaer} des Vereines zu, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden haben.
 
-\end{enumerate}
 
 \end{enumerate}
 
